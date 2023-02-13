@@ -78,7 +78,8 @@ with order_rank as -- создаем CTE, где пронумеруем зака
     category 
   from 
     sql.store_delivery d -- берем order_date
-    join sql.store_customers cust on cust.cust_id = d.cust_id -- берем тип клиента category,  идентификатор клиента cust_id
+    join sql.store_customers cust on cust.cust_id = d.cust_id
+    -- берем тип клиента category,  идентификатор клиента cust_id
     ) 
 select 
   -- создаем запрос, где:
