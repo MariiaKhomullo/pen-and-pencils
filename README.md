@@ -20,7 +20,7 @@
 
 ## Как посмотреть проект
 
-[Ссылка](https://docs.google.com/document/d/1nAMG5xN4FBDZlnyWf4gpsjNhmLWO8gac3wcHfqgQ5lQ/edit?usp=sharing)на гугл документ
+[Ссылка] (https://docs.google.com/document/d/1nAMG5xN4FBDZlnyWf4gpsjNhmLWO8gac3wcHfqgQ5lQ/edit?usp=sharing)на гугл документ.
 
 ## Структура проекта
 
